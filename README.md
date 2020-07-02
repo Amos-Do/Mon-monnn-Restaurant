@@ -23,17 +23,6 @@ https://amos-do.github.io/Mon-monnn-Restaurant/
 * jQuery 互動效果
 * RWD（支援 iphone 5）
 
-## 使用的 Plugin
-
-* [Vue-router](https://router.vuejs.org/zh/)
-* [Vue-axios](https://github.com/imcvampire/vue-axios#readme)
-* [Vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay)
-* [VeeValidate ](https://logaretm.github.io/vee-validate/)
-* [Font Awesome 5](https://fontawesome.com/)
-* [Bootstrap 4](https://getbootstrap.com/)
-* [Animate.css](https://animate.style/)
-
-
 ## 聲明
 * 本作品內的圖片與內容，純粹為個人練習技術使用，不做任何商業用途。
 
