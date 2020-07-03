@@ -15,7 +15,6 @@ body {
 }
 .headerTop {
     width: 100%;
-    height: 80px;
     background: rgb(255, 255, 255);
     position: absolute;
     transition: max-height 1.3s;
@@ -302,13 +301,11 @@ hr {
     margin: 32px 0;
 }
 .secret-info {
-    margin: 40px auto 0;
-}
-.secret-info ul {
     display: flex;
     justify-content: space-around;
+    margin: 40px auto 0;
 }
-.secret-info ul li {
+.secret-info li {
     width: 27.3333%;
     text-align: center;
 }
@@ -343,12 +340,12 @@ hr {
     hr {
         display: none;
     }
-    .secret-info ul {
+    .secret-info {
         flex-direction: column;
         align-items: center;
         justify-content: center;
     }
-    .secret-info ul li {
+    .secret-info li {
         width: 100%;
         padding: 0 30px;
         margin-bottom: 30px;
@@ -466,7 +463,6 @@ hr {
     line-height: 32px;
 }
 .booking .booking-wrap {
-    width: 100%;
     display: flex;
 }
 .booking-wrap .map {
@@ -514,6 +510,9 @@ hr {
     font-size: 14px;
     color: #FFFFFF;
     padding: 6px 18px;
+    cursor: pointer;
+    border-style: none;
+    border: 0;
 }
 .form-bt button[type="reset"] {
     background: rgba(0,0,0,0.35);
@@ -829,6 +828,10 @@ hr {
     padding: 3px 0;
     margin-bottom: 10px;
     cursor: pointer;
+}
+.product button:hover {
+  color: white;
+  background: #FF5E45;
 }
 .product button i {
     margin-right: 9px;
