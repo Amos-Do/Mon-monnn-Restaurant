@@ -18,7 +18,6 @@ https://amos-do.github.io/Mon-monnn-Restaurant/
 
 * 熟悉切版技巧
 * 手刻 HTML、css
-* LocalStorage 應用
 * 多頁式網頁
 * jQuery 互動效果
 * RWD（支援 iphone 5）
